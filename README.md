@@ -2,42 +2,42 @@
 I'm a passionate web developer with expertise in frontend and backend technologies. I love creating responsive, user-friendly websites and web applications with clean, efficient code.
 
 🛠️ Technical Skills
-    Frontend Development
-    Languages: HTML5, CSS3, JavaScript (ES6+)
+Frontend Development
+Languages: HTML5, CSS3, JavaScript (ES6+)
 
-    Frameworks/Libraries: React.js, Vue.js, jQuery
-    
-    CSS Preprocessors: Sass, Less
-    
-    Build Tools: Webpack, Parcel, Vite
-    
-    Responsive Design: Bootstrap, Tailwind CSS, Flexbox, Grid
-    
-    State Management: Redux, Context API, Vuex
-    
-    Testing: Jest, React Testing Library, Cypress
-    
-    Backend Development
-    Languages: Node.js, Python, PHP
-    
-    Frameworks: Express.js, Django, Laravel
-    
-    Databases: MongoDB, MySQL, PostgreSQL, Firebase
-    
-    API Development: RESTful APIs, GraphQL
-    
-    Authentication: JWT, OAuth, Passport.js
-    
-    DevOps & Other Tools
-    Version Control: Git, GitHub, GitLab
-    
-    Deployment: AWS, Heroku, Netlify, Vercel
-    
-    Containerization: Docker
-    
-    CI/CD: GitHub Actions, Jenkins
-    
-    Package Managers: npm, yarn, pip, composer
+Frameworks/Libraries: React.js, Vue.js, jQuery
+
+CSS Preprocessors: Sass, Less
+
+Build Tools: Webpack, Parcel, Vite
+
+Responsive Design: Bootstrap, Tailwind CSS, Flexbox, Grid
+
+State Management: Redux, Context API, Vuex
+
+Testing: Jest, React Testing Library, Cypress
+
+Backend Development
+Languages: Node.js, Python, PHP
+
+Frameworks: Express.js, Django, Laravel
+
+Databases: MongoDB, MySQL, PostgreSQL, Firebase
+
+API Development: RESTful APIs, GraphQL
+
+Authentication: JWT, OAuth, Passport.js
+
+DevOps & Other Tools
+Version Control: Git, GitHub, GitLab
+
+Deployment: AWS, Heroku, Netlify, Vercel
+
+Containerization: Docker
+
+CI/CD: GitHub Actions, Jenkins
+
+Package Managers: npm, yarn, pip, composer
 
 🚀 Projects
 [Project Name 1]
