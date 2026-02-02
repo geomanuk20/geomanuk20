@@ -110,22 +110,7 @@
 
 ---
 
-## 📈 GitHub Analytics
 
-<div align="center">
-  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_title=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8)
-  
-</div>
-
-<div align="center">
-  
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=dark&hide_border=true&background=0d1117&ring=1f6feb&fire=1f6feb&currStreakLabel=58a6ff)
-  
-</div>
-
----
 
 ## 📚 Currently Learning & Exploring
 
