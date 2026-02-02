@@ -39,6 +39,14 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce">
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
+  <img src="https://img.shields.io/badge/Divi-3A8FBA?style=for-the-badge&logo=divi&logoColor=white" alt="Divi">
+  <img src="https://img.shields.io/badge/Advanced_Custom_Fields-28303d?style=for-the-badge" alt="ACF">
+  <img src="https://img.shields.io/badge/Theme_Development-Custom-blue" alt="Theme Development">
+  <img src="https://img.shields.io/badge/Plugin_Development-Custom-orange" alt="Plugin Development">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 </p>
 
 ### **Databases & Cloud**
@@ -52,7 +60,17 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
 </p>
 
-### **Tools & DevOps**
+
+### **💳 Payment & E-commerce**
+<p>
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe">
+  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal">
+  <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white" alt="Razorpay">
+  <img src="https://img.shields.io/badge/WooCommerce_Payments-96588A?style=for-the-badge" alt="WooCommerce Payments">
+</p>
+
+
+### **Tools**
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -168,17 +186,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-WordPress_Projects-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/~yourprofile)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Consultation-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/yournumber)
 
 </div>
 
----
-
-<div align="center">
-  
-### **"First, solve the problem. Then, write the code."** – John Johnson
-  
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue&label=Profile+Views&style=flat-square)
-  
-⭐️ **Star my projects if you find them useful!** ⭐️
-  
-</div>
