@@ -5,9 +5,9 @@
 ### Crafting Scalable Solutions with Clean Code & Modern Technologies
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/geo-manu-k-0b253a1b7)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:geomanuk20@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/geomanuk20)
 
 </div>
 
