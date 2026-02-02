@@ -118,11 +118,11 @@
 
 | Technology | Purpose | Status |
 |------------|---------|--------|
-| **<img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat&logo=webassembly&logoColor=white" alt="WebAssembly">** | High-performance web applications | 🚧 Learning |
-| **<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=awslambda&logoColor=white" alt="AWS Lambda">** | Serverless architecture patterns | 🚧 Implementing |
-| **<img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white" alt="Three.js">** | 3D web graphics & visualization | 🔍 Exploring |
-| **<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go">** | High-performance backend systems | 📚 Studying |
-| **<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes">** | Container orchestration | 🚧 Learning |
+| **<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS">** | Cloud infrastructure & services | 🚧 Learning |
+| **<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">** | Backend development & WordPress | 📚 Studying |
+| **<img src="https://img.shields.io/badge/Digital_Marketing-FF6B6B?style=flat&logo=google-ads&logoColor=white" alt="Digital Marketing">** | Online marketing strategies | 🔍 Exploring |
+| **<img src="https://img.shields.io/badge/Social_Media_Marketing-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Social Media Marketing">** | Social media campaigns & analytics | 🚧 Implementing |
+| **<img src="https://img.shields.io/badge/SEO-0F9D58?style=flat&logo=google&logoColor=white" alt="SEO">** | Search engine optimization | 📚 Studying |
 
 </div>
 
