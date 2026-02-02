@@ -184,11 +184,7 @@
 [![Email](https://img.shields.io/badge/Email-geomanuk20%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geomanuk20@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-WordPress_Projects-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/~yourprofile)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Consultation-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/yournumber)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Consultation-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9207431549)
 
 </div>
 
