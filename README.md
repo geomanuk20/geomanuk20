@@ -11,6 +11,9 @@
 
 </div>
 
+![WhatsApp GIF 2026-02-04 at 13 59 16](https://github.com/user-attachments/assets/38729f09-b885-4ee3-8bd4-5772f6a67868)
+
+
 ## 🎯 About Me
 
 🚀 Passionate software engineer with expertise in building scalable web applications across the full stack. I specialize in creating robust, maintainable, and high-performance solutions that solve real-world problems. Always eager to learn new technologies and contribute to impactful projects.
