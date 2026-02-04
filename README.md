@@ -9,9 +9,11 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:geomanuk20@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/geomanuk20)
 
+![WhatsApp GIF 2026-02-04 at 13 59 16](https://github.com/user-attachments/assets/38729f09-b885-4ee3-8bd4-5772f6a67868)
+
 </div>
 
-![WhatsApp GIF 2026-02-04 at 13 59 16](https://github.com/user-attachments/assets/38729f09-b885-4ee3-8bd4-5772f6a67868)
+
 
 
 ## 🎯 About Me
